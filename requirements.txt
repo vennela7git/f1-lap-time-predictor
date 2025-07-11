@@ -1,0 +1,6 @@
+```txt
+streamlit
+scikit-learn
+fastf1
+matplotlib
+pandas
